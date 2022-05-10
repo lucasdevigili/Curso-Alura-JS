@@ -5,8 +5,7 @@
      </div>
      <div class="column is-three-quarter">
        <formulario />
-       <formulario />
-       <formulario />
+       <!-- lista de tarefas -->
      </div>
    </main>
 </template>
@@ -24,6 +23,5 @@ export default  defineComponent({
     BarraLateral,
     Formulario
   }
-
 })
 </script>
